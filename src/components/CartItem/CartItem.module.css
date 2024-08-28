@@ -1,0 +1,50 @@
+.cart_item{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Satoshi';
+    padding-bottom: 24px;
+}
+.cart_item p{
+    margin-bottom: 0px;
+}
+.cart_item .price{
+    font-size: 24px;
+    color: #000000;
+    font-weight: 700;
+}
+ img .product_img{
+    width: 124px;
+    height: 124px;
+}
+h6{
+    font-weight: 700;
+    font-size: 20px;
+}
+.item_description{
+    width: 100%;
+    padding-left: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.product_amount{
+    padding: 12px 20px;
+    background-color: #F0F0F0;
+    border-radius: 62px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.product_btns{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-content: space-between;
+}
+.product_btns img{
+    width: 24px;
+}
+ .product_amount img{
+    width: 20px;
+ }

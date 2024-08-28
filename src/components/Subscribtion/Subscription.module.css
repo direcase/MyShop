@@ -1,0 +1,31 @@
+.subscription_container{
+    margin: 80px 100px;
+    padding: 43px 64px;
+    background-color: #000000;
+    color: #FFF;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.subscription_container h3{
+    text-align: start;
+    width: 60%;
+}
+.input_wrapper {
+    width: 349px;
+    background-color: #FFFFFF;
+    color: #0000006c;
+    display: flex;
+    border-radius: 62px;
+}
+.subscription_container button{
+    font-family: 'Satoshi';
+    font-family: 16px;
+    margin-top: 14px;
+    border-radius: 62px;
+    width: 349px;
+    padding: 14px 12px 14px 18px;
+}
+.input_wrapper img {
+    padding: 14px 12px 14px 18px;
+}

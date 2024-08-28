@@ -1,0 +1,30 @@
+.header{
+    font-family: Satoshi;
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding: 0px 40px;
+}
+header li{
+    list-style-type: none;
+}
+.header a{
+    text-decoration: none;
+    color: black;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 0px 0px 0px 40px;
+}
+header{
+padding: 24px 100px;
+padding-bottom: 0px;
+}

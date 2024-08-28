@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+@font-face {
+  font-family: "Satoshi";
+  src: url("../public/Fonts/OTF/Satoshi-Regular.otf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Integral";
+  src: url("../public/Fonts/IntegralCF-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}

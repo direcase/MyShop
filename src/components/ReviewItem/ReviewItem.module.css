@@ -1,0 +1,20 @@
+.review{
+    width: 400px;
+    border-radius: 20px;
+    margin-top: 40px;
+    padding: 28px 32px;
+    border: 1px solid rgba(0, 0, 0, 0.283);
+}
+.review_text{
+    font-family: 'Satoshi';
+}
+.review_text div{
+    font-size: 20px;
+    font-weight: bold;
+}
+.reviewer_name{
+    padding: 20px 0px;
+}
+.review_text p{
+    color: rgba(0, 0, 0, 0.6);
+}

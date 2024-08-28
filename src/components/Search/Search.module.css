@@ -1,0 +1,19 @@
+input{
+    font-family: 'Satoshi';
+    outline: none;
+    height: 50px;
+    width: 100%;
+    border: 0px;
+    font-size: 1rem;
+    background: transparent;
+}
+.input_wrapper{
+    width: 557px;
+    background-color: #F0F0F0;
+    display: flex;
+    border-radius: 62px;
+}
+
+.input_wrapper img {
+        padding: 14px 12px 14px 18px;
+}

@@ -1,0 +1,43 @@
+.dress{
+    background-color: #F0F0F0;
+    margin: 80px 100px;
+    border-radius: 40px;
+    padding: 70px;
+}
+ h3{
+    font-family: 'Integral';
+    font-size: 48px;
+    text-align: center;
+}
+.styles_list{
+    padding-top: 60px;
+    display: grid;
+    grid-template-columns: 407px 257px 407px;
+    grid-template-rows: repeat(2, 289px);
+    gap: 20px;
+    justify-content: space-around;
+}
+.styles_list div{
+    padding: 25px 36px;
+    font-family: 'Satoshi';
+    font-size: 36px;
+    font-weight: bold;
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    
+}
+.casual{
+    background-image: url('img/casual.png');
+    /* grid-column: span 2; */
+}
+.formal{
+    background-image: url('img/formal.png');
+    grid-column: span 2;
+}
+.party{
+    background-image: url('img/party.png');
+    grid-column: span 2;
+}
+.gym{
+    background-image: url('img/gym.png');
+}
